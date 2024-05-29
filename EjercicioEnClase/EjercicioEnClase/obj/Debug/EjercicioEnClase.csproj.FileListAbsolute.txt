@@ -1,0 +1,6 @@
+/Users/anthony/Projects/EjercicioEnClase/EjercicioEnClase/bin/Debug/EjercicioEnClase.exe
+/Users/anthony/Projects/EjercicioEnClase/EjercicioEnClase/bin/Debug/EjercicioEnClase.pdb
+/Users/anthony/Projects/EjercicioEnClase/EjercicioEnClase/obj/Debug/EjercicioEnClase.csprojAssemblyReference.cache
+/Users/anthony/Projects/EjercicioEnClase/EjercicioEnClase/obj/Debug/EjercicioEnClase.csproj.CoreCompileInputs.cache
+/Users/anthony/Projects/EjercicioEnClase/EjercicioEnClase/obj/Debug/EjercicioEnClase.exe
+/Users/anthony/Projects/EjercicioEnClase/EjercicioEnClase/obj/Debug/EjercicioEnClase.pdb
